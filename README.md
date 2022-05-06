@@ -22,4 +22,4 @@ Starter code, tests, and challenge were created by the Thinkful Team for the Eng
 
 ## Deployment
 
-App has been deployed with Heroku and can be accessed [here]("https://grubdash-front-side.herokuapp.com/")
+- App has been deployed with Heroku and can be accessed [here](https://grubdash-front-side.herokuapp.com/)
